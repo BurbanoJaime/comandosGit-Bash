@@ -37,3 +37,19 @@ git push -u -nombredelRemoto branch : Sube el codigo al repositorio de internet
 //nombredelRemoto, generalmente es "origin"
 
 */
+
+
+
+//ORDEN
+
+/*
+npm init
+npm install -libreria-
+
+
+git init
+git add
+git commit
+git push
+
+*/
