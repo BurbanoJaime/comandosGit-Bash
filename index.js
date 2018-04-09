@@ -24,7 +24,7 @@ git add . : agrega todos los archivos que no estan ignorados al git
 git add -nombre-: agrega el archivo -nombre- al git
 git commit -m "mensaje" : agrega un commit
 
-git clone : clona un repositorio
+git clone -link- -nombre-: clona un repositorio
 
 git reset --had -nombreDelCommit- : regresa el codigo hasta el commit -nombreDelCommit- //EL CAMBIO ES IRREVERSIBLE
 
@@ -50,6 +50,6 @@ npm install -libreria-
 git init
 git add
 git commit
-git push
+git p
 
 */
