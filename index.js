@@ -9,7 +9,7 @@ npm init : Inicializa el npm
 git init: Inicializa el git
 
 npm i -libreria-
-npm instal -libreria- : Instala las librerias
+npm instal libreria -- save : Instala las librerias
 
 git rm -f : elimina de git y de la carpeta
 git rm -fr : Elimina solo de git
@@ -26,7 +26,7 @@ git commit -m "mensaje" : agrega un commit
 
 git clone -link- -nombre-: clona un repositorio
 
-git reset --had -nombreDelCommit- : regresa el codigo hasta el commit -nombreDelCommit- //EL CAMBIO ES IRREVERSIBLE
+git reset --hand -nombreDelCommit- : regresa el codigo   -+ hasta el commit -nombreDelCommit- //EL CAMBIO ES IRREVERSIBLE
 
 git remote add -nombredelRemoto- https://github.com/usuario/repositorio.git : Conecta el codigo al github de internet
 
@@ -50,6 +50,6 @@ npm install -libreria-
 git init
 git add
 git commit
-git p
+git push
 
 */
